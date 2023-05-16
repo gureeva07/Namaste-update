@@ -1,0 +1,10 @@
+.header__container-wrapper {
+  padding: 0 0 0 37px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  max-height: 369px;
+  border-left: solid 1px #805B5F;
+}

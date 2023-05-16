@@ -1,0 +1,27 @@
+.header__link {
+  font-family: 'Gilroy', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+
+  text-align: center;
+  color: var(--color-link-black);
+}
+
+.header__link:hover {
+  color: var(--color-main-btn);
+  padding: 0px 0px 5px 0;
+  border-bottom: 2px solid #FF7A8A;
+}
+
+.header__link:focus {
+  outline: none;
+  color: var(--color-main-btn);
+}
+
+.header__link:active {
+  transition: 0.5s;
+  color: var(--color-main-btn);
+  opacity: 0.5;
+}

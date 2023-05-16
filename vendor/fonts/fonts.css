@@ -1,0 +1,40 @@
+/*Gilroy medium kiril*/
+@font-face {
+  font-family: 'Gilroy';
+  src: local('Gilroy Medium'), local('Gilroy-Medium'),
+      url('./Gilroy/Gilroy-Medium.woff2') format('woff2'),
+      url('./Gilroy/Gilroy-Medium.woff') format('woff'),
+      url('./Gilroy/Gilroy-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+/*Gilroy bold kiril*/
+@font-face {
+  font-family: 'Gilroy';
+  src: local('Gilroy Bold'), local('Gilroy-Bold'),
+      url('./Gilroy/Gilroy-Bold.woff2') format('woff2'),
+      url('./Gilroy/Gilroy-Bold.woff') format('woff'),
+      url('./Gilroy/Gilroy-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+/*Jost regular kiril*/
+@font-face {
+  font-family: 'Jost';
+  src: local('Jost Regular'), local('Jost-Regular'),
+      url('./Jost/Jost-Regular.woff2') format('woff2'),
+      url('./Jost/Jost-Regular.woff') format('woff'),
+      url('./Jost/Jost-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+/*Futura pt cond bold kiril*/
+@font-face {
+  font-family: 'Futura PT';
+  src: local('Futura PT Cond Bold'), local('Futura-PT-Cond-Bold'),
+      url('./FuturaPTCond/FuturaPTCond-Bold.woff2') format('woff2'),
+      url('./FuturaPTCond/FuturaPTCond-Bold.woff') format('woff'),
+      url('./FuturaPTCond/FuturaPTCond-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}

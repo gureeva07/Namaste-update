@@ -1,0 +1,13 @@
+.header__button {
+  cursor: pointer;
+  text-transform: uppercase;
+  padding: 0;
+  width: 200px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-main-btn);
+  color: var(--color-main-btn-text);
+  border-radius: 5px;
+}

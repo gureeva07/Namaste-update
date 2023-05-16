@@ -1,0 +1,5 @@
+.header__container {
+  display: flex;
+  justify-content: flex-end;
+  min-width: 1196px;
+}

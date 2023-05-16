@@ -1,0 +1,70 @@
+@import '../vendor/normalize.css';
+@import '../vendor/variables.css';
+@import '../vendor/fonts/fonts.css';
+/* Blocks */
+@import '../blocks/page/page.css';
+/* Wrapper */
+@import '../blocks/wrapper/wrapper.css';
+/* Button */
+@import '../blocks/button/button.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__wrapper/header__wrapper.css';
+@import '../blocks/header/__navigation/header__navigation.css';
+@import '../blocks/header/__logo-img/header__logo-img.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__link/header__link.css';
+@import '../blocks/header/__container-wrapper/header__container-wrapper.css';
+@import '../blocks/header/__link/_active/header__link_active.css';
+@import '../blocks/header/__container/header__container.css';
+@import '../blocks/header/__lists/header__lists.css';
+@import '../blocks/header/__list/header__list.css';
+@import '../blocks/header/__button/header__button.css';
+@import '../blocks/header/__button-navigation/header__button-navigation.css';
+/* Navigation */
+@import '../blocks/navigation/navigation.css';
+@import '../blocks/navigation/__container/navigation__container.css';
+/* List */
+@import '../blocks/list/list.css';
+/* Main */
+@import '../blocks/main/main.css';
+/* location */
+@import '../blocks/main/location/__container/location__container.css';
+@import '../blocks/main/location/__container/location__container-wrapper.css';
+@import '../blocks/main/location/__container/location__container-group.css';
+@import '../blocks/main/location/__text/location__container-title.css;
+
+/* Conception */
+@import '../blocks/conception/conception.css';
+@import '../blocks/conception/__cards/cards.css';
+@import '../blocks/conception/__text/text__conception.css';
+@import '../blocks/conception/__img/conception__img.css';
+@import '../blocks/about/__card-end/about__card-end.css';
+/* Coaches */
+@import '../blocks/coaches/coaches.css';
+@import '../blocks/coaches/__title/coaches__title.css';
+/* Description */
+@import '../blocks/description/description.css';
+@import '../blocks/description/__text/description__text.css';
+@import '../blocks/description/__image/description__image.css';
+/* Cards */
+@import '../blocks/cards/cards.css';
+/* Card */
+@import '../blocks/card/card.css';
+@import '../blocks/card/__title/card__title.css';
+@import '../blocks/card/__text/card__text.css';
+@import '../blocks/card/__price/card__price.css';
+@import '../blocks/card/__image/card__image.css';
+@import '../blocks/card/__button/card__button.css';
+/* Logo */
+@import '../blocks/logo/logo.css';
+/* Link */
+@import '../blocks/link/link.css';
+/* Footer */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__mail/footer__mail.css';
+@import '../blocks/footer/__copyright/footer__copyright.css';
+
+.debug {
+  border: solid 1px red;
+}

@@ -1,0 +1,6 @@
+.header__wrapper {
+  padding: 40px 40px 0 40px;
+  display: grid;
+  justify-content: center;
+  min-height: 684px;
+}

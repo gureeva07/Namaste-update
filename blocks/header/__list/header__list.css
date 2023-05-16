@@ -1,0 +1,10 @@
+.header__list {
+    width: 100%;
+    min-width: 482px;
+    max-width: 482px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

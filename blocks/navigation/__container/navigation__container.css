@@ -1,0 +1,7 @@
+.navigation__container {
+  display: flex;
+  justify-content: space-between;
+  min-width: 741px;
+  max-width: 741px;
+
+}

@@ -1,0 +1,9 @@
+.location__container-group {
+  width: 998px;
+  height: 57px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 30px 127px 33px 155px;
+}

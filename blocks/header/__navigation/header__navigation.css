@@ -1,0 +1,9 @@
+.header__navigation {
+  width: 100%;
+  max-width: 1195px;
+  min-width: 320px;
+  min-height: 95px;
+  max-height: 95px;
+  justify-content: space-between;
+  align-items: center;
+}
