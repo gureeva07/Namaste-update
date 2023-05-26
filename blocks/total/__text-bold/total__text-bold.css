@@ -1,0 +1,30 @@
+.total__text-bold {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 29px;
+  color: var(--color-main-font);
+  margin: 5px;
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .total__text-bold {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .total__text-bold {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .total__text-bold {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+  }
+}

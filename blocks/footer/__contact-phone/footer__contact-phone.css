@@ -1,0 +1,11 @@
+.footer__contact-phone {
+  display: grid;
+  margin: 0;
+  width: 400px;
+  height: 44px;
+  font-family: Jost;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: left;
+  color: var(--color-main-font);
+}

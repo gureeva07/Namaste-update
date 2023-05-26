@@ -1,0 +1,4 @@
+.footer__card {
+  display: flex;
+  gap: 128px;
+}

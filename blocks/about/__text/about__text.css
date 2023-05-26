@@ -1,0 +1,9 @@
+.about__text {
+  font-family: Jost;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+  margin: 30px 0 15px 0;
+}

@@ -1,0 +1,11 @@
+.kund__card {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+}
+
+@media (max-width:768px) {
+  .kund__card {
+    flex-wrap: wrap;
+  }
+}

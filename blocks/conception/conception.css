@@ -1,3 +1,4 @@
 .conception {
-  padding: 80px 0 0 0;
+  display: flex;
+  justify-content: center;
 }

@@ -1,0 +1,30 @@
+.pilates__card {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+}
+
+@media screen and (max-width: 1024px) {
+  .pilates__card {
+    width: 1024px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pilates__card {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .pilates__card {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .pilates__card {
+    flex-wrap: wrap;
+  }
+}

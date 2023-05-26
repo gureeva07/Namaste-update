@@ -1,0 +1,53 @@
+@import '../vendor/normalize.css';
+@import '../vendor/variables.css';
+@import '../vendor/fonts/fonts.css';
+/* Blocks */
+@import '../blocks/page/page.css';
+/* Wrapper */
+@import '../blocks/wrapper/wrapper.css';
+/* Button */
+@import '../blocks/button/button.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__wrapper/header__wrapper.css';
+@import '../blocks/header/__navigation/header__navigation.css';
+@import '../blocks/header/__logo-img/header__logo-img.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__link/header__link.css';
+@import '../blocks/header/__container-wrapper/header__container-wrapper.css';
+@import '../blocks/header/__link/_active/header__link_active.css';
+@import '../blocks/header/__container/header__container.css';
+@import '../blocks/header/__lists/header__lists.css';
+@import '../blocks/header/__list/header__list.css';
+@import '../blocks/header/__button/header__button.css';
+@import '../blocks/header/__button-navigation/header__button-navigation.css';
+/* Navigation */
+@import '../blocks/navigation/navigation.css';
+@import '../blocks/navigation/__container/navigation__container.css';
+/* List */
+@import '../blocks/list/list.css';
+/* Logo */
+@import '../blocks/logo/logo.css';
+/* Link */
+@import '../blocks/link/link.css';
+/* Describe */
+@import '../blocks/describe/__rectangle/describe__rectangle.css';
+@import '../blocks/describe/__rectangle/describe__rectangle.css';
+@import '../blocks/describe/__container/describe__container.css';
+@import '../blocks/describe/describe.css';
+@import '../blocks/describe/__title/describe__title.css';
+@import '../blocks/describe/__text-group/describe__text-group.css';
+@import '../blocks/describe/__price/describe__price.css';
+@import '../blocks/describe/__text/describe__text.css';
+@import '../blocks/describe/__text-title/describe__text-title.css';
+@import '../blocks/describe/__card/describe__card.css';
+@import '../blocks/describe/__img/describe__img.css';
+/* Total */
+@import '../blocks/total/total.css';
+@import '../blocks/total/__container/total__container.css';
+@import '../blocks/total/__text-group/total__text-group.css';
+@import '../blocks/total/__text-bold/total__text-bold.css';
+@import '../blocks/total/__text-color/total__text-color.css';
+@import '../blocks/total/__text/total__text.css';
+@import '../blocks/total/__title/total__title.css';
+@import '../blocks/total/__rectangle/total__rectangle.css';

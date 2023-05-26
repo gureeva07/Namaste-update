@@ -1,0 +1,7 @@
+.benefits__cards {
+  max-width: 1196px;
+  min-width: 1196px;
+  display: flex;
+  justify-content: center;
+  gap: 120px;
+}

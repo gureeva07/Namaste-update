@@ -3,3 +3,74 @@
 @import '../vendor/fonts/fonts.css';
 /* Blocks */
 @import '../blocks/page/page.css';
+/* Wrapper */
+@import '../blocks/wrapper/wrapper.css';
+/* Button */
+@import '../blocks/button/button.css';
+/*Snap*/
+@import '../blocks/snap/snap.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__wrapper/header__wrapper.css';
+@import '../blocks/header/__navigation/header__navigation.css';
+@import '../blocks/header/__logo-img/header__logo-img.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__link/header__link.css';
+@import '../blocks/header/__container-wrapper/header__container-wrapper.css';
+@import '../blocks/header/__link/_active/header__link_active.css';
+@import '../blocks/header/__container/header__container.css';
+@import '../blocks/header/__lists/header__lists.css';
+@import '../blocks/header/__list/header__list.css';
+@import '../blocks/header/__button/header__button.css';
+@import '../blocks/header/__button-navigation/header__button-navigation.css';
+/* Navigation */
+@import '../blocks/navigation/navigation.css';
+@import '../blocks/navigation/__container/navigation__container.css';
+/* List */
+@import '../blocks/list/list.css';
+/* Logo */
+@import '../blocks/logo/logo.css';
+/* Link */
+@import '../blocks/link/link.css';
+/* Price */
+@import '../blocks/price/price.css';
+@import '../blocks/price/__wrapper/price__wrapper.css';
+@import '../blocks/price/__button-certificate/price__button-certificate.css';
+@import '../blocks/price/__button-subscrition/price__button-subscrition.css';
+@import '../blocks/price/__img/price__img.css';
+@import '../blocks/price/__button-group.css/price__button-group.css';
+@import '../blocks/price/__subtext/price__subtext.css';
+@import '../blocks/price/__text/price__text.css';
+@import '../blocks/price/__text-group/price__text-group.css';
+@import '../blocks/price/__title/price__title.css';
+@import '../blocks/price/__container/price__container.css';
+@import '../blocks/price/__card/price__card.css';
+/* Certificate */
+@import '../blocks/certif/certif.css';
+@import '../blocks/certif/__subtext/certif__subtext.css';
+@import '../blocks/certif/__text/certif__text.css';
+@import '../blocks/certif/__title/certif__title.css';
+@import '../blocks/certif/__text-group/certif__text-group.css';
+@import '../blocks/certif/__img/certif__img.css';
+@import '../blocks/certif/__container/certif__container.css';
+@import '../blocks/certif/__card/certif__card.css';
+/* Footer */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__work-text/footer__work-text.css';
+@import '../blocks/footer/__logo-text/footer__logo-text.css';
+@import '../blocks/footer/__work-title/footer__work-title.css';
+@import '../blocks/footer/__work/footer__work.css';
+@import '../blocks/footer/__contact-title/footer__contact-title.css';
+@import '../blocks/footer/__contact-phone/footer__contact-phone.css';
+@import '../blocks/footer/__rules/footer__rules.css';
+@import '../blocks/footer/__card/footer__card.css';
+@import '../blocks/footer/__container/footer__container.css';
+/* Snap */
+@import '../blocks/snap/snap.css';
+/* Cost */
+@import '../blocks/cost/cost.css';
+@import '../blocks/cost/__card/cost__card.css';
+@import '../blocks/cost/__table/cost__table.css';
+@import '../blocks/cost/__title/cost__title.css';
+@import '../blocks/cost/__text/cost__text.css';
+@import '../blocks/cost/__container/cost__container.css';

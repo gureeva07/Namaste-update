@@ -1,0 +1,9 @@
+.cost__text {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+  padding: 0 150px 0 0;
+}

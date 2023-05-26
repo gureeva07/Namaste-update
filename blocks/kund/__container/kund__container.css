@@ -1,0 +1,33 @@
+.kund__container {
+  max-width: 1196px;
+  min-width: 1196px;
+
+}
+
+@media screen and (max-width: 1024px) {
+  .kund__container {
+    width: 1024px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .kund__container {
+    width: 768px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .kund__container {
+    width: 480px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .kund__container {
+    width: 320px;
+    margin: 0 auto;
+  }
+}

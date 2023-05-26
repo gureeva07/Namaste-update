@@ -1,0 +1,24 @@
+.describe__price {
+  color: var(--color-main-btn);
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .describe__text {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+    margin-top: 3px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .describe__text {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+    margin: 0 auto;
+  }
+}

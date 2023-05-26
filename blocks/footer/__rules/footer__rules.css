@@ -1,0 +1,9 @@
+.footer__rules {
+  display: grid;
+  margin: 0;
+  color: var(--color-main-font);
+  font-family: Jost;
+  font-size: 10px;
+  font-weight: 400;
+  text-align: left;
+}

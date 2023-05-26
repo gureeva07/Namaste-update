@@ -1,0 +1,22 @@
+.describe__card {
+  display: flex;
+  gap: 50px;
+}
+
+
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .describe__card {
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .describe__card {
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 auto;
+  }
+}

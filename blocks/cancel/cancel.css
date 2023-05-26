@@ -1,0 +1,6 @@
+.cancel {
+  background-color: var(--color-bg-pink);
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}

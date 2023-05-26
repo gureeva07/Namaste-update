@@ -1,0 +1,10 @@
+.certif__text {
+  width: 361px;
+  height: 29px;
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+}

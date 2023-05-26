@@ -8,25 +8,29 @@
   <title>Namaste - студия здорового фитнеса</title>
   <!-- <link rel="stylesheet" href="./css/style.css"> -->
   <link rel="stylesheet" href="./pages/index.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="./images/icon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/icon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./images/icon/favicon-16x16.png">
+  <link rel="manifest" href="./images/icon/site.webmanifest">
 </head>
 
 <body class="page">
   <header class="header">
     <div class="header__wrapper">
       <nav class=" navigation header__navigation">
-        <a class="link header__logo-link" href="/">
+        <a class="link header__logo-link" href="index.html">
           <img class="logo header__logo-img" src="./images/png/logo.png" alt="Namaste">
         </a>
         <div class=" navigation__container">
           <ul class="list header__list">
             <li class="header__item">
-              <a class="link header__link" href="#">О студии</a>
+              <a class="link header__link" href="about.html">О студии</a>
             </li>
             <li class="header__item">
-              <a class="link header__link" href="#">Направления </a>
+              <a class="link header__link" href="product.html">Направления </a>
             </li>
             <li class="header__item">
-              <a class="link header__link" href="#">Абоненмент</a>
+              <a class="link header__link" href="catalog.html">Абоненмент</a>
             </li>
           </ul>
           <button type="button" class="button header__button">оставить заявку</button>
@@ -49,81 +53,127 @@
     </div>
   </header>
   <main class="main">
-    <section class="location__container">
-      <div class="location__container-wrapper">
-
+    <section class="location">
+      <div class="location__container">
         <div class="location__container-group">
           <h2 class="location__container-title">
             где мы находимся
           </h2>
-          <p class="location__container-subtitle1">
-            namaste/маяковская <br>
-            ул.Гашека,2/1
+          <p class="location__container-subtitle">
+            <span>namaste/маяковская</span>
+            <span>ул.Гашека,2/1</span>
           </p>
-          <p class="location_container-subtitle2">
-            namaste/фрузенская <br>
-            ул.Гашека,2/1
+          <p class="location__container-subtitle">
+            <span>namaste/фрузенская</span>
+            <span>ул.Гашека,2/1</span>
           </p>
         </div>
 
       </div>
     </section>
-    <section class="conseption">
-      <h2 class="conseption__title">концепция</h2>
-      <div class="cards">
-        <div class="text__conception">
-          <p class="conception__text">
-            МЫ ДОКАЗЫВАЕМ, ЧТО ТРЕНИРОВКИ В УДОВОЛЬСТВИЕ СУЩЕСТВУЮТ. ВЛЮБЛЯЕМ В ДВИЖЕНИЕДАЖЕ ТЕХ, КТО РАНЬШЕ ХОДИЛ НА
-            ЗАНЯТИЕ ЧЕРЕЗ
-            СИЛУ
-          </p>
-          <p class="conception__text-subtext1">
-            Особенность Namaste - в умном комплексном подходе к развитию тела.
-          </p>
-          <p class="conception__text-subtext2">
-            Программы занятий создаются с учётом биомеханики человека, по самым актуальным методикам в области фитнеса.
-          </p>
-          <img class="conception-mixendi" src="./images/png/mixendi.png" alt="Михенди">
-        </div>
+    <section class="conception">
+      <div class="conception__container">
+        <div class="conception__cards">
+          <div class="conception__text-group">
+            <h2 class="conseption__title">концепция</h2>
+            <p class="conception__text">
+              МЫ ДОКАЗЫВАЕМ, ЧТО ТРЕНИРОВКИ В УДОВОЛЬСТВИЕ СУЩЕСТВУЮТ. ВЛЮБЛЯЕМ В ДВИЖЕНИЕДАЖЕ ТЕХ, КТО РАНЬШЕ ХОДИЛ НА
+              ЗАНЯТИЕ ЧЕРЕЗ
+              СИЛУ
+            </p>
+            <div class="conception__text-subtext-group">
+              <p class="conception__text-subtext">
+                Особенность Namaste - в умном комплексном подходе к развитию тела.
+              </p>
+              <p class="conception__text-subtext">
+                Программы занятий создаются с учётом биомеханики человека, по самым актуальным методикам в области
+                фитнеса.
+              </p>
+            </div>
 
-        <div class="conception__img">
-          <img src="./images/png/концепция.jpg" alt="концепция">
+
+          </div>
+          <img class="conception-mixendi" src="./images/png/mixendi.png" alt="Михенди">
+
+
         </div>
+        <img class="conception__img" src="./images/png/концепция.jpg" alt="концепция">
       </div>
+
 
     </section>
     <section class="benefits">
       <h2 class="benefits__title">преимущества</h2>
-      <div class="cards">
-        <article class="card">
-          <h3 class="card__title"><img src="./images/png/star (1).png">КОМФОРТ</h3>
-          <p class="card__text">Занятия проходят индивидуально или в мини-группах до 7 человек. Мы уделяем внимание
-            технике каждого гостя, учитываем
-            уровень подготовки и особенности здоровья</p>
-        </article>
-        <article class="card">
-          <h3 class="card__title"><img src="./images/png/square.png">АТМОСФЕРА</h3>
-          <p class="card__text">В наши студии хочется возвращаться. Это светлые пространства с залами для тренировок,
-            удобными раздевалками, душевыми и
-            зонами отдыха
-          </p>
-        </article>
-        <article class="card">
-          <h3 class="card__title"><img src="./images/png/people.png">КОМАНДА</h3>
-          <p class="card__text">Все наши тренеры сертифицированы ведущими школами России, Европы. Это профессионалы с
-            опытом работы от 8 до 20 лет,
-            глубокими знаниями биомеханики и любовью к движению</p>
-        </article>
+      <div class="benefits__container">
+
+        <div class="benefits__cards">
+
+          <article class="benefits__card">
+            <h3 class="benefits__card-title"><img src="./images/png/star (1).png">КОМФОРТ</h3>
+            <p class="benefits__card-text">Занятия проходят индивидуально или в мини-группах до 7 человек. Мы уделяем
+              внимание
+              технике каждого гостя, учитываем
+              уровень подготовки и особенности здоровья</p>
+          </article>
+          <article class="benefits__card">
+            <h3 class="benefits__card-title"><img src="./images/png/square.png">АТМОСФЕРА</h3>
+            <p class="benefits__card-text">В наши студии хочется возвращаться. Это светлые пространства с залами для
+              тренировок,
+              удобными раздевалками, душевыми и
+              зонами отдыха
+            </p>
+          </article>
+          <article class="benefits__card">
+            <h3 class="benefits__card-title"><img src="./images/png/people.png">КОМАНДА</h3>
+            <p class="benefits__card-text">Все наши тренеры сертифицированы ведущими школами России, Европы. Это
+              профессионалы с
+              опытом работы от 8 до 20 лет,
+              глубокими знаниями биомеханики и любовью к движению</p>
+          </article>
+        </div>
       </div>
     </section>
+    <section class="cancel">
+      <div class="cancel__container">
+        <div class="cancel__card">
+          <div class="cancel__text-group">
+            <h2 class="cancel__title">отмена тренировки</h2>
+            <p class="cancel__text">Отменить можно тренировку можно в личном кабинете <span class="cancel__text_bold">не
+                позднее чем за 12 часов</span> до
+              начала.
+              При своевременной отмене занятие
+              сохранится в личном кабинете</p>
+          </div>
+          <img class="cancel__img" src="./images/png/поза лотоса.png" alt="">
+        </div>
 
-
-
-    <!--Befits end-->
-    <footer class="footer">
-
-    </footer>
+      </div>
+    </section>
   </main>
+  <footer class="footer">
+    <div class="footer__container">
+      <div class="footer__card">
+        <div class="footer__logo">
+          <h2 class="footer__logo-text">NAMASTE</h2>
+          <p class="footer__rules">
+            <span>Все права защищены </span>
+            <span>Namaste 2023</span>
+          </p>
+        </div>
+        <div class="footer__contacts">
+          <h2 class="footer__contact-title">контакты</h2>
+          <p class="footer__contact-phone">
+            <span>м. Маяковская / ул. Гашека, 2с1 / +7 (925) 076 07 10</span>
+            <span>м. Фрунзенская / ул. Усачева, 11Г / +7 (929) 564 07 04</span>
+          </p>
+        </div>
+        <div class="footer__work">
+          <h2 class="footer__work-title">ХОТИТЕ БЫТЬ ЧАСТЬЮ КОМАНДЫ?</h2>
+          <p class="footer__work-text">Отправьте ваше резюме на нашу почту career@namaste.com</p>
+        </div>
+      </div>
+    </div>
+  </footer>
 </body>
 
 </html>

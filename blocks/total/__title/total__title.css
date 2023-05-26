@@ -1,0 +1,32 @@
+.total__title {
+  font-family: 'Futura PT Cond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  color: var(--color-main-font);
+
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .total__title {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+    margin: 5px 0 0 0;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .total__title {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+    margin: 5px 0 0 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .total__title {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+    margin: 5px 0 0 0;
+  }
+}

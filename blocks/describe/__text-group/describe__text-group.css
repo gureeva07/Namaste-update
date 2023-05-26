@@ -1,0 +1,31 @@
+.describe__text-group {
+  width: 304px;
+  height: 223px;
+  margin-top: 40px;
+}
+
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .describe__text-group {
+    margin-top: 0px;
+    width: 217px;
+    height: 130px;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .describe__text-group {
+    width: 217px;
+    height: 130px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .describe__text-group {
+    width: 217px;
+    height: 130px;
+    margin: 0 auto;
+  }
+}

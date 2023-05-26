@@ -1,0 +1,8 @@
+.creator__text-end {
+  font-family: Jost;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: right;
+  color: var(--color-main-font);
+  padding: 100px 0 0 0;
+}

@@ -1,0 +1,5 @@
+.about {
+  background-color: var(--color-bg-purple);
+  display: flex;
+  justify-content: center;
+}

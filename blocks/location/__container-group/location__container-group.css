@@ -1,0 +1,8 @@
+.location__container-group {
+  width: 100%;
+  max-width: 998px;
+  max-height: 57px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

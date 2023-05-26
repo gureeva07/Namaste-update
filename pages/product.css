@@ -1,0 +1,87 @@
+@import '../vendor/normalize.css';
+@import '../vendor/variables.css';
+@import '../vendor/fonts/fonts.css';
+/* Blocks */
+@import '../blocks/page/page.css';
+/* Wrapper */
+@import '../blocks/wrapper/wrapper.css';
+/* Button */
+@import '../blocks/button/button.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__wrapper/header__wrapper.css';
+@import '../blocks/header/__navigation/header__navigation.css';
+@import '../blocks/header/__logo-img/header__logo-img.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__link/header__link.css';
+@import '../blocks/header/__container-wrapper/header__container-wrapper.css';
+@import '../blocks/header/__link/_active/header__link_active.css';
+@import '../blocks/header/__container/header__container.css';
+@import '../blocks/header/__lists/header__lists.css';
+@import '../blocks/header/__list/header__list.css';
+@import '../blocks/header/__button/header__button.css';
+@import '../blocks/header/__button-navigation/header__button-navigation.css';
+/* Navigation */
+@import '../blocks/navigation/navigation.css';
+@import '../blocks/navigation/__container/navigation__container.css';
+/* List */
+@import '../blocks/list/list.css';
+/* Flow */
+@import '../blocks/flow/__container/flow__container.css';
+@import '../blocks/flow/__card/flow__card.css';
+@import '../blocks/flow/flow.css';
+@import '../blocks/flow/__img/flow__img.css';
+@import '../blocks/flow/__title/flow__title-section.css';
+@import '../blocks/flow/__title/flow__title.css';
+@import '../blocks/flow/__link/flow__link.css';
+@import '../blocks/flow/__item/flow__item.css';
+@import '../blocks/flow/__list/flow__list.css';
+@import '../blocks/flow/__container-description/flow__container-description.css';
+/* Logo */
+@import '../blocks/logo/logo.css';
+/* Link */
+@import '../blocks/link/link.css';
+/* Flow */
+@import '../blocks/kund/kund.css';
+@import '../blocks/kund/__img/kund__img.css';
+@import '../blocks/kund/__card/kund__card.css';
+@import '../blocks/kund/__item/kund__item.css';
+@import '../blocks/kund/__link/kund__link.css';
+@import '../blocks/kund/__list/kund__list.css';
+@import '../blocks/kund/__title/kund__title.css';
+@import '../blocks/kund/__title-section/kund__title-section.css';
+@import '../blocks/kund/__container/kund__container.css';
+@import '../blocks/kund/__container-description/kund__container-description.css';
+/* Vad*/
+@import '../blocks/vad/vad.css';
+@import '../blocks/vad/__item/vad__item.css';
+@import '../blocks/vad/__list/vad__list.css';
+@import '../blocks/vad/__title-section/vad__title-section.css';
+@import '../blocks/vad/__title/vad__title.css';
+@import '../blocks/vad/__link/vad__link.css';
+@import '../blocks/vad/__img/vad__img.css';
+@import '../blocks/vad/__container-description/vad__container-description.css';
+@import '../blocks/vad/__container/vad__container.css';
+@import '../blocks/vad/__card/vad__card.css';
+/* Pilates*/
+@import '../blocks/pilates/pilates.css';
+@import '../blocks/pilates/__card/pilates__card.css';
+@import '../blocks/pilates/__item/pilates__item.css';
+@import '../blocks/pilates/__link/pilates__link.css';
+@import '../blocks/pilates/__list/pilates__list.css';
+@import '../blocks/pilates/__title-section/pilates__title-section.css';
+@import '../blocks/pilates/__title/pilates__title.css';
+@import '../blocks/pilates/__container/pilates__container.css';
+@import '../blocks/pilates/__img/pilates__img.css';
+@import '../blocks/pilates/__container-description/pilates__container-description.css';
+/* Footer */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__work-text/footer__work-text.css';
+@import '../blocks/footer/__logo-text/footer__logo-text.css';
+@import '../blocks/footer/__work-title/footer__work-title.css';
+@import '../blocks/footer/__work/footer__work.css';
+@import '../blocks/footer/__contact-title/footer__contact-title.css';
+@import '../blocks/footer/__contact-phone/footer__contact-phone.css';
+@import '../blocks/footer/__rules/footer__rules.css';
+@import '../blocks/footer/__card/footer__card.css';
+@import '../blocks/footer/__container/footer__container.css';

@@ -1,0 +1,36 @@
+.pilates__container-description {
+  width: 619px;
+  height: 384px;
+}
+
+@media screen and (max-width: 1024px) {
+  .pilates__container-description {
+    width: 462px;
+    height: 340px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pilates__container-description {
+    width: 462px;
+    height: 340px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .pilates__container-description {
+    width: 378px;
+    height: 270px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .pilates__container-description {
+    width: 278px;
+    height: 215px;
+    margin: 0 auto;
+  }
+}

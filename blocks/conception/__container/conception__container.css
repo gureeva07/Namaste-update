@@ -1,0 +1,7 @@
+.conception__container {
+  min-width: 1195px;
+  max-width: 1195px;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}

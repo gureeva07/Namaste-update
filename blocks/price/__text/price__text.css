@@ -1,0 +1,11 @@
+.price__text {
+  width: 459px;
+  height: 58px;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 0;
+}

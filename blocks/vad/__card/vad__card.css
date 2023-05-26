@@ -1,0 +1,30 @@
+.vad__card {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+}
+
+@media screen and (max-width: 1024px) {
+  .vad__card {
+    width: 1024px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .vad__card {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .vad__card {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .vad__card {
+    flex-wrap: wrap;
+  }
+}

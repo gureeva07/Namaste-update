@@ -1,0 +1,34 @@
+.pilates__link {
+  font-family: 'Gilroy', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 20px;
+
+  text-align: left;
+  color: var(--color-main-font);
+}
+
+@media screen and (max-width: 1024px) {
+  .pilates__link {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pilates__link {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .pilates__link {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .pilates__link {
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,9 @@
+.price__subtext {
+  font-family: Jost;
+  font-size: 25px;
+  font-weight: 300;
+  text-align: left;
+  color: var(--color-main-font);
+  width: 815px;
+  height: 70px;
+}

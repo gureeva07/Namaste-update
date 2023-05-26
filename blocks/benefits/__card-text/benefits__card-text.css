@@ -1,0 +1,10 @@
+.benefits__card-text {
+  margin: 0;
+  max-height: 110px;
+  min-height: 110px;
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: var(--color-main-font);
+}

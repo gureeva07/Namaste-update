@@ -1,0 +1,9 @@
+.footer__work-title {
+  font-family: Gilroy;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,6 @@
+.pilates {
+  background-color: var(--color-bg-pink);
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}

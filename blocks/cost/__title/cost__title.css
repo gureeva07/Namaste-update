@@ -1,0 +1,8 @@
+.cost__title {
+  font-family: Futura PT Cond;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+}

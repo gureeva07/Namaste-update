@@ -1,0 +1,8 @@
+.cancel__title {
+  font-family: Futura PT Cond;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+  color: var(--color-main-font);
+}

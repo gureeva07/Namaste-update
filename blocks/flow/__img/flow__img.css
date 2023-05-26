@@ -1,0 +1,33 @@
+.flow__img {
+  width: 494px;
+  height: 536px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+  .flow__img {
+    width: 440px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .flow__img {
+    width: 440px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .flow__img {
+    width: 370px;
+    height: 450px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .flow__img {
+    width: 250px;
+    height: 340px;
+  }
+}

@@ -1,0 +1,36 @@
+.flow__link {
+  font-family: 'Gilroy', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 20px;
+
+  text-align: left;
+  color: var(--color-main-font);
+}
+
+@media screen and (max-width: 1024px) {
+  .flow__link {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .flow__link {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .flow__link {
+    font-size: 20px;
+    width: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .flow__link {
+    font-size: 15px;
+    width: 320px;
+  }
+}

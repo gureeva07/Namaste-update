@@ -1,0 +1,5 @@
+.certif {
+  background-color: var(--color-bg-pink);
+  display: flex;
+  justify-content: center;
+}

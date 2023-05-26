@@ -1,0 +1,33 @@
+.flow__container {
+  max-width: 1196px;
+  min-width: 1196px;
+
+}
+
+@media screen and (max-width: 1024px) {
+  .flow__container {
+    width: 1024px;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .flow__container {
+    width: 768px;
+
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .flow__container {
+    width: 480px;
+
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .flow__container {
+    width: 320px;
+
+  }
+}

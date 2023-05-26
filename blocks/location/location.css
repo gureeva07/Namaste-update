@@ -1,0 +1,6 @@
+.location {
+  background-color: var(--color-location-pink);
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 0 0;
+}

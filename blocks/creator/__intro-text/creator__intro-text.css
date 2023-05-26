@@ -1,0 +1,7 @@
+.creator__intro-text {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: var(--color-main-font);
+}

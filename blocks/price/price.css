@@ -1,0 +1,6 @@
+.price {
+  background-color: var(--color-bg-pink);
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}

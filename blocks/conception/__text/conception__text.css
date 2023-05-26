@@ -1,0 +1,11 @@
+.conception__text {
+  max-height: 215px;
+  font-family: Jost;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 43px;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+  margin-top: 30px;
+}

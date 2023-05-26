@@ -1,0 +1,6 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: var(--color-bg-pink);
+  margin-top: 50px;
+}

@@ -1,0 +1,27 @@
+.vad__item {
+  padding: 0 0 30px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .vad__item {
+    padding: 0 0 20px 0;
+    width: 470px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .vad__item {
+    padding: 0 0 15px 0;
+    width: 407px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .vad__item {
+    padding: 0 0 10px 0;
+    width: 232px;
+    margin: 0 auto;
+  }
+}

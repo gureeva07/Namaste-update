@@ -1,0 +1,30 @@
+.total__text {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: var(--color-main-font);
+  margin: 0 auto;
+  padding: 0 0 5px 0;
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+  .total__text {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .total__text {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .total__text {
+    font-size: 15px;
+    padding: 0 0 7px 0;
+  }
+}

@@ -1,0 +1,6 @@
+.price__button-group {
+  width: 565px;
+  height: 55px;
+  display: flex;
+  gap: 25px;
+}

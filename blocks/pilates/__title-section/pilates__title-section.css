@@ -1,0 +1,9 @@
+.pilates__title-section {
+  margin-top: 40px;
+  font-family: Futura PT Cond;
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+}

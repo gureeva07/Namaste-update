@@ -1,0 +1,9 @@
+.mission__title {
+  font-family: Futura PT Cond;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: left;
+  color: var(--color-main-font);
+  text-transform: uppercase;
+}

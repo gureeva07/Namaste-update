@@ -1,0 +1,33 @@
+.pilates__img {
+  width: 494px;
+  height: 536px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+  .pilates__img {
+    width: 440px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pilates__img {
+    width: 440px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .pilates__img {
+    width: 440px;
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .pilates__img {
+    width: 440px;
+    height: 500px;
+  }
+}
